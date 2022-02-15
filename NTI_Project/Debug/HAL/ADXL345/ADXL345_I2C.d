@@ -1,0 +1,7 @@
+HAL/ADXL345/ADXL345_I2C.o HAL/ADXL345/ADXL345_I2C.o:  \
+ ../HAL/ADXL345/ADXL345_I2C.c ../HAL/ADXL345/ADXL345_I2C.h \
+  C:\Users\B\Desktop\RTOS\WorkSpace\NTI_Project\MCAL\I2C/I2C_master.h
+
+../HAL/ADXL345/ADXL345_I2C.h:
+
+C:\Users\B\Desktop\RTOS\WorkSpace\NTI_Project\MCAL\I2C/I2C_master.h:
